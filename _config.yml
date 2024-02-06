@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "Ramon Balaguer"
-  avatar           : "/assets/images/shared/avatar_min.jpg"
+  avatar           : "/assets/images/shared/avatar_min.jpeg"
   bio              : "Alguien que hace productos"
   location         : "Barcelona"
   email            :
