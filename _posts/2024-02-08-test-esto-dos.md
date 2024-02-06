@@ -1,5 +1,5 @@
 ---
-title:  "Esto es un test"
+title:  "Esto es un test2"
 search: true
 categories: 
   - Test
