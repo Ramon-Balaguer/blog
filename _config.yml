@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "es-ES"
-title                    : "Ideas to porduct"
+title                    : "Codes & Dreams"
 title_separator          : "-"
-subtitle                 : "Epic Journey"
+subtitle                 : "Crafting Realities"
 name                     : "Ramon Balaguer"
 description              : "Blog que intento escribir con todo el amor del mundo."
 url                      : "https://blog.rbalaguer.es/"
