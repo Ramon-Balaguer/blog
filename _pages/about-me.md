@@ -4,7 +4,9 @@ title: "About me"
 excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
 last_modified_at: 2024-02-06T11:59:26-04:00
 toc: false
-classes: wide
+classes: 
+  - wide
+  - text-justify
 ---
 Hola🖖, soy Ramon. Desde que tengo memoria, siempre supe que mi pasión y futuro estarían en el tecnológico. Esta pasión no solo ha definido mi carrera profesional sino que también ha moldeado mi enfoque hacia la resolución de problemas y la creación de soluciones en la vida. 
 
