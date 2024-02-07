@@ -15,8 +15,6 @@ Este blog, es un viaje de ideas para llegar a desarrollar producto, es un reflej
 	<figcaption>Foto familiar.</figcaption>
 </figure>
 
-Detrás del teclado, soy padre de una preciosa hija 🦄. Compartir momentos con mi familia y amigos es fundamental para mí, dándome la inspiración para seguir adelante en mi carrera profesional. Además, soy un aficionado de las series, encontrando en ellas no solo entretenimiento sino también una fuente inesperada de creatividad.
-
 Detrás del teclado, soy padre 🦄 y compañero de viaje 🛩️ de dos preciosas. Compartir momentos con mi familia y amigos es fundamental para mí, dándome la inspiración para seguir adelante en mi carrera profesional. Además, soy un aficionado de las series, encontrando en ellas no solo entretenimiento sino también una fuente inesperada de creatividad.
 
 Con más de 15 años de experiencia en el mundo del desarrollo de software, he trabajado en varias disciplinas cómo la implementación de buenas prácticas y programación extrema (XP), aplicación de metodologías Agile y el manejo de la escalabilidad en proyectos de varios tamaños. Aunque mi experiencia abarca varias tecnologías, he desarrollado especialmente en el ecosistema .NET y Oracle. Lo que realmente destaca en mi carrera es la pasión por la gestión de talento, creyendo firmemente que el éxito de cualquier proyecto de software reside en las personas detrás del código. Mi enfoque siempre ha estado en fomentar equipos altamente efectivos y motivados, capaces de superar desafíos y alcanzar objetivos comunes, mientras mantenemos un ambiente de trabajo inclusivo y propicio para el crecimiento personal y profesional.
